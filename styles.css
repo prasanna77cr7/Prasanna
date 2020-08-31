@@ -803,6 +803,9 @@ footer {
   color: #dd5033;
 }
 /*fixes*/
+.nav-item {
+  font-family: Open Sans;
+}
 .nav-item :hover {
   cursor: pointer;
 }
